@@ -1,0 +1,2 @@
+Subject,Body,From: (Name),From: (Address),From: (Type),To: (Name),To: (Address),To: (Type),CC: (Name),CC: (Address),CC: (Type),BCC: (Name),BCC: (Address),BCC: (Type),Billing Information,Categories,Importance,Mileage,Sensitivity
+subject,xxx,xxx,xxx,SMTP,xxx,xxx,EX,,,,,,,,CAM2,Normal,,Normal
